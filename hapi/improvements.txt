@@ -1,0 +1,18 @@
+01
+- some problem... Number?!? Maybe trying to parse to an int?
+
+02
+- some things are misspelled
+- {bold} isn't formatted right
+
+11
+- config: {
+  output : 'stream',
+  parse : true
+}
+
+is wrong. Needs to be:
+payload: {
+  output : 'stream',
+  parse : true
+}

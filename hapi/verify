@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+makemehapi verify $1

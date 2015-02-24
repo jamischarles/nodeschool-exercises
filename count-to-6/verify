@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+count-to-6 verify $1

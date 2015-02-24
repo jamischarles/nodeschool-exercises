@@ -1,0 +1,16 @@
+{
+  "name": "test-hapi",
+  "version": "1.0.0",
+  "description": "playing around",
+  "main": "01-hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jamis Charles",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^7.5.2",
+    "joi": "^4.8.1",
+    "rot13-stream": "0.0.1"
+  }
+}
